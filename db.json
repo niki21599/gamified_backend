@@ -1,0 +1,9 @@
+{
+   "users": 
+   [
+        { "name": "Anna", "xp": 500 },
+        { "name": "Niklas", "xp": 500 },
+        { "name": "Lukas", "xp": 5 },
+        { "name": "Sophie", "xp": 5 }
+    ]
+}
