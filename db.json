@@ -1,9 +1,6 @@
 {
    "users": 
    [
-        {"id": 1,  "name": "Anna", "xp": 500 },
-        {"id": 2, "name": "Niklas", "xp": 500 },
-        {"id": 3, "name": "Lukas", "xp": 5 },
-        {"id": 4,"name": "Sophie", "xp": 5 }
+        
     ]
 }
